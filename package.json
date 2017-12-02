@@ -1,0 +1,23 @@
+{
+  "name": "testangular",
+  "version": "1.0.0",
+  "description": "Modulo de prueba de angular",
+  "main": "Addition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datalaneasl/testangular.git"
+  },
+  "keywords": [
+    "angular",
+    "prueba"
+  ],
+  "author": "Datalan EASL <ftorres@datalan.es> (http://datalan.es)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datalaneasl/testangular/issues"
+  },
+  "homepage": "https://github.com/datalaneasl/testangular#readme"
+}
